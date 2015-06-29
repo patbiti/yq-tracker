@@ -1,0 +1,22 @@
+{
+  "name": "url-tracker",
+  "version": "0.0.1",
+  "description": "tracker for yq",
+  "main": "config.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patbiti/yq-tracker.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "patbiti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patbiti/yq-tracker/issues"
+  },
+  "homepage": "https://github.com/patbiti/yq-tracker#readme"
+}
